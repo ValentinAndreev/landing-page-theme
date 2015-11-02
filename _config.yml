@@ -3,13 +3,15 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
+title: ООО ПГС-Проект
+email: pgs_p@mail.ru
 author: Your Name
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
-  description."
+  description.
+copyright: 'Copyright &copy; 2017 ПГС-Проект.'
+credits: ''
 
 # ----------------------- #
 #    Jekyll & Plugins     #
